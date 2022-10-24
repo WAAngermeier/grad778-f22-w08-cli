@@ -4,7 +4,6 @@ favorite supervillian: Joker
 
 favorite food: pizzaaaaaaa
 
-favorite drink: Tea
+favorite drink: Liquid Death
 
-
-
+favorite color: RED
