@@ -4,4 +4,4 @@ favorite supervillian: Joker
 
 favorite food: pizzaaaaaaa
 
-
+favorite color: RED
